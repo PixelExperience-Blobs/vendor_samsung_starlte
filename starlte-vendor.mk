@@ -55,9 +55,6 @@ PRODUCT_PACKAGES += \
     libhifistill \
     libopenvx \
     libwrappergps \
-    libOMX.Exynos.AVC.Encoder \
-    libOMX.Exynos.HEVC.Encoder \
-    libOMX.Exynos.HEVC.WFD.Encoder \
     sensors.sensorhub \
     libaudioeffectoffload \
     audio.primary.exynos9810 \
