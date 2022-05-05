@@ -55,7 +55,6 @@ PRODUCT_PACKAGES += \
     libhifistill \
     libopenvx \
     libwrappergps \
-    sensors.sensorhub \
     libaudioeffectoffload \
     audio.primary.exynos9810 \
     sound_trigger.primary.exynos9810 \
