@@ -58,7 +58,6 @@ PRODUCT_PACKAGES += \
     lib_SamsungRec_06006 \
     libaudioproxy \
     librecordalive \
-    libwvhidl \
     libkeymaster_helper_vendor
 
 # Dolby Atmos
